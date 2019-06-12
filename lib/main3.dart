@@ -199,7 +199,7 @@ class MyApp extends StatelessWidget{
   Widget build(BuildContext context) {
     // TODO: implement build
     return Container(
-      child: Image.asset('images/hu.pngfl'),
+      child: Image.asset('images/hu.png'),
     );
   }
 }
